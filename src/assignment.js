@@ -55,8 +55,8 @@ function countEvenNumbers() {
   });
 
   // login the array of even numbers
-  console.log(evenNumbers)
-  // console.log(evenNumbers.length)
+  // console.log(evenNumbers)
+  console.log(evenNumbers.length)
   return arr.length;
 }
 
